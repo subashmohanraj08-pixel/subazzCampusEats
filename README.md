@@ -1,4 +1,4 @@
-# CampusEats
+# CampusEats Architechture
 
 A full-stack web application concept to solve canteen queue congestion on college
 campuses — students pre-order and pay for food online, canteen staff manage
