@@ -4,6 +4,9 @@ A full-stack web application concept to solve canteen queue congestion on colleg
 campuses — students pre-order and pay for food online, canteen staff manage
 orders through a live dashboard.
 
+## 👤 Author
+Subash — B.Sc IT (Second Year), Govt. Arts & Science College, Valparai
+
 ## 📌 Project Status
 **Phase 1: Planning & Architecture (Complete)**
 This repository currently contains the design/planning deliverable for the
@@ -27,8 +30,6 @@ project. Development (actual front-end/back-end code) begins in the next phase.
 - **Auth:** JWT + bcrypt
 - **Payments:** Razorpay (UPI/card/wallet)
 
-## 👤 Author
-Subash — B.Sc IT (Second Year), Govt. Arts & Science College, Valparai
 
 ## 🚀 Next Steps
 - Set up front-end and back-end project scaffolding
